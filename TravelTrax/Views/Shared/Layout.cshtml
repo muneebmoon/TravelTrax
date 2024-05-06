@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/layout.css" media="all">
+    <link rel="shortcut icon" href="~/assets/logo.svg" type="image/x-icon">
+    <title>@ViewData["Title"] - TravelTrax</title>
+</head>
+
+<body>
+    <header class="header">
+        <div class="navbar">
+            <div class="logo">
+                <a href="#"><img src="~/assets/logo.svg" alt="TravelTrax's Logo"></a>
+            </div>
+            <div class="account">
+                <span class="avatar">
+                    <img src="~/assets/avatar.svg" alt="avatar icon">
+                </span>
+                <span class="dropdownicon">
+                    <img src="~/assets/dropdown.svg" alt="down-arrow icon">
+                </span>
+            </div>
+        </div>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer class="footer">
+        <div class="socialcontainer">
+            <div class="socialicons">
+                <a href="#"><img width="20px" src="~/assets/facebook.svg" alt="" id="facebook"></a>
+                <a href="#"><img width="20px" src="~/assets/twitter.svg" alt="" id="twitter"></a>
+                <a href="#"><img width="20px" src="~/assets/instagram.svg" alt="" id="instagram"></a>
+                <a href="#"><img width="20px" src="~/assets/youtube.svg" alt="" id="youtube"></a>
+                <a href="#"><img width="20px" src="~/assets/tiktok.svg" alt="" id="tiktok"></a>
+            </div>
+        </div>
+        <div class="linkcontainer">
+            <div class="firstcolum colum">
+                <a href="#">Help Center</a>
+                <a href="#">Privacy & Cookies Statment</a>
+                <a href="#">About TravelTrax</a>
+            </div>
+            <div class="secondcolum colum">
+                <a href="#">Careers</a>
+                <a href="#">Sitemap</a>
+                <a href="#">Supplier Sign Up</a>
+            </div>
+            <div class="thirdcolum colum">
+                <a href="#">Travel Agents</a>
+                <a href="#">Become an Affiliate</a>
+                <a href="#">News</a>
+            </div>
+        </div>
+        <hr class="horizontal-line">
+        <div class="copyright-section">
+            <div class="app-section">
+                <a href="#"><img src="~/assets/playstore.svg" alt="playstore"></a>
+                <a href="#"><img src="~/assets/appstore.svg" alt="appstore"></a>
+            </div>
+            <div class="copyright">
+                <a href="#">&copy; 2022-2024 TravelTrax, Inc.</a>
+                <a href="#">Terms & Conditions</a>
+                <a href="#">How TravelTrax works</a>
+                <a href="#">Cookies Consent</a>
+            </div>
+        </div>
+    </footer>
+    <script src="~/js/script.js"></script>
+</body>
+
+</html>

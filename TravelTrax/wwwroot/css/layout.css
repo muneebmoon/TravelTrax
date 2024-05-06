@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    word-wrap:normal;
+}
+
+body {
+    background-color: white;
+}
+
+.header {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 2px rgba(81, 80, 80, 0.3);
+}
+
+.navbar {
+    width: 97vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 200px;
+}
+
+.account {
+    border: 1px solid rgb(141, 141, 141);
+    padding: 5px 10px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.account:hover {
+    box-shadow: 0px 0px 15px rgba(179, 179, 175, 0.3);
+}
+
+
+.avatar img {
+    width: 25px;
+}
+
+.dropdownicon img {
+    width: 20px;
+}
+
+/* -------------------main---------------------- */
+
+/* Main Body CSS is in homepage.css Page
+
+/*--------------------- Footer--------------------- */
+
+.footer {
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.socialcontainer {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.socialicons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.linkcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.colum {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 30px;
+}
+
+.colum a {
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    row-gap: 30px;
+}
+
+.colum a:hover {
+    text-decoration: underline;
+}
+
+
+.copyright-section {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.app-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.app-section a {
+    width: 150px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.copyright {
+    display: flex;
+    gap: 30px;
+}
+
+.copyright a {
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+}
+
+.copyright a:hover {
+    text-decoration: underline;
+}

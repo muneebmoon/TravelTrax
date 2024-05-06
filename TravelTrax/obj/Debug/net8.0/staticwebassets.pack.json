@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\advantagebanner.svg",
+      "PackagePath": "staticwebassets\\assets\\advantagebanner.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\appstore.svg",
+      "PackagePath": "staticwebassets\\assets\\appstore.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\avatar.svg",
+      "PackagePath": "staticwebassets\\assets\\avatar.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\background.jpg",
+      "PackagePath": "staticwebassets\\assets\\background.jpg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\dropdown.svg",
+      "PackagePath": "staticwebassets\\assets\\dropdown.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\experince.svg",
+      "PackagePath": "staticwebassets\\assets\\experince.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\facebook.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\instagram.svg",
+      "PackagePath": "staticwebassets\\assets\\instagram.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\logo.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\playstore.svg",
+      "PackagePath": "staticwebassets\\assets\\playstore.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\reservenow.svg",
+      "PackagePath": "staticwebassets\\assets\\reservenow.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\reviews.svg",
+      "PackagePath": "staticwebassets\\assets\\reviews.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\searchicon.svg",
+      "PackagePath": "staticwebassets\\assets\\searchicon.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\tiktok.svg",
+      "PackagePath": "staticwebassets\\assets\\tiktok.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\twitter.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\assets\\youtube.svg",
+      "PackagePath": "staticwebassets\\assets\\youtube.svg"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\css\\homepage.css",
+      "PackagePath": "staticwebassets\\css\\homepage.css"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\TravelTrax\\TravelTrax\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TravelTrax.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TravelTrax.props",
+      "PackagePath": "build\\TravelTrax.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelTrax.props",
+      "PackagePath": "buildMultiTargeting\\TravelTrax.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TravelTrax.props",
+      "PackagePath": "buildTransitive\\TravelTrax.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
